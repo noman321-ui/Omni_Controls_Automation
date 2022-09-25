@@ -2837,9 +2837,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\YoutechBD\\source\\repos\\OnionArchitecture\\WebApi\\WebApi.csproj",
-      "projectName": "WebApi",
-      "projectPath": "C:\\Users\\YoutechBD\\source\\repos\\OnionArchitecture\\WebApi\\WebApi.csproj",
+      "projectUniqueName": "C:\\Users\\YoutechBD\\source\\repos\\OnionArchitecture\\WebApi\\OmniCA.csproj",
+      "projectName": "OmniCA",
+      "projectPath": "C:\\Users\\YoutechBD\\source\\repos\\OnionArchitecture\\WebApi\\OmniCA.csproj",
       "packagesPath": "C:\\Users\\YoutechBD\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\YoutechBD\\source\\repos\\OnionArchitecture\\WebApi\\obj\\",
       "projectStyle": "PackageReference",
